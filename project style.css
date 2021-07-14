@@ -1,0 +1,208 @@
+body{
+    margin: 0px;
+    background-color: rgb(202, 243, 136);
+    width: 100%;
+    padding: 0px;
+    overflow-x: hidden;
+          
+}
+
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(202, 243, 136);
+    margin: 0px;
+    padding: 10px;
+    font-family:sans-serif;
+}
+
+.header img{
+    width:100px;
+    float: left;
+    height: 55px;
+    margin: 0px;
+    margin-top: 0;
+    border-radius: 3px;
+    padding: 0px;
+
+}
+
+
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 33px;
+    color: rgb(15, 9, 3);
+}
+ul li{
+    list-style: none;
+    display:inline ;
+}
+
+ul{
+    display: inline;
+}
+.btn{
+    background-color: yellow;
+    border-radius: 3px;
+    margin-top: 7px;
+    
+    
+}
+
+.clear{
+    Clear: both;
+}
+.background{
+    width: 100%;
+    margin: 0px;
+}
+.background img{
+     width: 100%;
+     height: 100%;
+     margin-bottom: 0px;
+
+     
+}
+
+
+
+.type of drawing{
+
+    border-radius: 10px;
+    margin: 0px;
+    width: 300px;
+}
+.photo img{
+    float: right;
+    margin: 10px;
+    border-radius: 50px;
+    width: 800px;
+    height: 500px;
+    border: 10px rgb(3, 3, 105) solid;
+}
+
+.link{
+    color: rgb(231, 223, 223);
+    margin: 60px;
+    padding: 30px;
+    padding-left: 50px;
+    font-size: 20px;
+    width: 17%;
+    height: 20%;
+    border-radius: 50px;
+    background-color: rgb(2, 2, 109);
+
+}
+
+.link a{
+    text-decoration: none;
+    color: white;
+}
+
+
+ 
+
+ .parent{
+
+    width: 100%;
+    height: fit-content;
+    
+
+
+}
+.parent div{
+    margin-left: 100px;
+}
+
+.parent div img{
+    margin: 1%;
+   width: 27%;
+    float: left;
+    border-radius: 10px;
+    border: 10px rgb(2, 2, 109) solid;
+
+    
+
+}
+.me{
+    padding: 20px;
+}
+
+.me img{
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 100px;
+height: 20%;
+    width: 40%;
+}
+.me h3{
+    
+    font-size: 22px;
+    padding-top: 100px;
+    direction: rtl;
+
+
+
+}
+
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(202, 243, 136);
+    color: black;
+    align-items: center;
+    padding: 2px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 0px;
+    
+}
+footer h4{
+    color: black;
+    direction: rtl;
+    width: 100%;
+
+}
+h4{
+
+    color: white;
+    direction: rtl;
+    font-size: 12px;
+    text-align: center;
+    padding: 5px;
+
+}
+h2{
+    color: white;
+    padding: 10px;
+   direction: rtl;
+    font-size: 15px;
+    text-align: center;
+}
+.pparent{
+    width: 100%;
+    float: right;
+    padding: 10px;
+}
+.pparent div{
+    margin: 1%;
+    width: calc( 94% / 3);
+    border-radius: 10px;
+    float: right;
+    background-color: rgb(3, 3, 56);
+    margin-left: 5px;
+    
+}
+.give{
+    width: 100%;
+    text-align: center;
+    
+}
+.give h1{
+    width: 100%;
+    text-align: center;
+}
+
